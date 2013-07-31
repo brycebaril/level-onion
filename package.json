@@ -1,13 +1,12 @@
 {
   "name": "level-onion",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A levelup wrapper interface to add/modify behavior of a levelup instance.",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tap": "~0.4.3",
     "level-test": "~1.5.0",
