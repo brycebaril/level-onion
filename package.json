@@ -1,0 +1,34 @@
+{
+  "name": "level-onion",
+  "version": "0.0.0",
+  "description": "A levelup wrapper interface to add/modify behavior of a levelup instance.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tap": "~0.4.3",
+    "level-test": "~1.5.0",
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brycebaril/level-onion.git"
+  },
+  "keywords": [
+    "leveldb",
+    "levelup",
+    "wrapper",
+    "hook"
+  ],
+  "author": "Bryce B. Baril",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycebaril/level-onion/issues"
+  }
+}
