@@ -1,6 +1,6 @@
 {
   "name": "level-onion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A levelup wrapper interface to add/modify behavior of a levelup instance.",
   "main": "index.js",
   "directories": {
