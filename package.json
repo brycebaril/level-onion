@@ -8,9 +8,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tap": "~0.4.3",
-    "level-test": "~1.5.0",
-    "tape": "~1.0.4"
+    "tap": "~0.4.8",
+    "level-test": "~1.6.1",
+    "tape": "~2.4.0"
   },
   "scripts": {
     "test": "tap test/*.js"
